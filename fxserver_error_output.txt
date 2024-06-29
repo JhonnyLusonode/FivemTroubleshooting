@@ -1,0 +1,316 @@
+[exists_in_more_than_one_place]
+[  resources:okokChat] Warning: okokChat exists in more than one place (C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[Chat_Notifiers]\okokChat is used, the duplicate is C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[ESX]\okokChat): 15
+[resources:packcarros] Warning: packcarros1 exists in more than one place (C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[CARROS]\packcarros1 is used, the duplicate is C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[ESX]\packcarros1): 15
+[resources:packcarros] Warning: packcarros2 exists in more than one place (C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[CARROS]\packcarros2 is used, the duplicate is C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[ESX]\packcarros2): 15
+[resources:packcarros] Warning: packcarros3 exists in more than one place (C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[CARROS]\packcarros3 is used, the duplicate is C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[ESX]\packcarros3): 15
+[resources:packcarros] Warning: packcarros4 exists in more than one place (C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[CARROS]\packcarros4 is used, the duplicate is C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[ESX]\packcarros4): 15
+[resources:chat-theme] Warning: chat-theme-gtao exists in more than one place (C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[ESX]\chat-theme-gtao is used, the duplicate is C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[Default]\[gameplay]\chat-theme-gtao): 15
+[resources:skinchange] Warning: skinchanger exists in more than one place (C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[Essencial]\skinchanger is used, the duplicate is C:\Users\Administrator\Downloads\Pedrimdefault\server-data\resources\[Essencial]\[identity]\skinchanger): 15
+
+[no_resource_manifest]
+[resources:whiskakii-] Warning: whiskakii-Mafia-main does not have a resource manifest (fxmanifest.lua): 15
+
+[outdated_manifest]
+[     resources:LR-AC] Warning: LR-AC has an outdated manifest (__resource.lua instead of fxmanifest.lua): 15
+[   resources:pNotify] Warning: pNotify has an outdated manifest (__resource.lua instead of fxmanifest.lua): 15
+[resources:progressBa] Warning: progressBars has an outdated manifest (__resource.lua instead of fxmanifest.lua): 15
+[ resources:modoadmin] Warning: modoadmin has an outdated manifest (__resource.lua instead of fxmanifest.lua): 15
+[ resources:groupChat] Warning: groupChat has an outdated manifest (__resource.lua instead of fxmanifest.lua): 15
+[      resources:logo] Warning: logo has an outdated manifest (__resource.lua instead of fxmanifest.lua): 15
+[resources:pack_mlos_] Warning: pack_mlos_2022 has an outdated manifest (__resource.lua instead of fxmanifest.lua): 15
+[      resources:zone] Warning: zone has an outdated manifest (__resource.lua instead of fxmanifest.lua): 15
+[  resources:ls-radio] Warning: ls-radio has an outdated manifest (__resource.lua instead of fxmanifest.lua): 15
+
+[could_not_find_client_script]
+[     resources:async] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in __resource.lua:7): 15
+[ resources:es_admin2] Warning: could not find client_script `blockNGeAmWXcPsTm.lua` (defined in fxmanifest.lua:21): 15
+[ resources:es_admin2] Warning: could not find client_script `mAnMu.lua` (defined in fxmanifest.lua:22): 15
+[resources:mysql-asyn] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in __resource.lua:26): 14
+[resources:EssentialO] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in fxmanifest.lua:24): 14
+[resources:EssentialO] Warning: could not find client_script `essentials/clothesmerfik/client.lua` (defined in fxmanifest.lua:125): 14
+[resources:EssentialO] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in fxmanifest.lua:347): 14
+[resources:EssentialO] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in fxmanifest.lua:379): 14
+[resources:skinchange] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in __resource.lua:20): 14
+[  resources:AdminOti] Warning: could not find client_script `el_bwh/config.lua` (defined in fxmanifest.lua:25): 14
+[  resources:AdminOti] Warning: could not find client_script `el_bwh/client.lua` (defined in fxmanifest.lua:25): 14
+[resources:esx_ambula] Warning: could not find client_script `client/job.lua` (defined in __resource.lua:15): 14
+[resources:esx_ambula] Warning: could not find client_script `client/ems.lua` (defined in __resource.lua:15): 14
+[resources:esx_ambula] Warning: could not find client_script `client/cryptos_stretcher.lua` (defined in __resource.lua:15): 14
+[resources:mythic_hos] Warning: could not find client_script `client/wound/defines.lua` (defined in __resource.lua:7): 14
+[resources:packcarros] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:1110): 13
+[resources:packcarros] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17): 24
+[   resources:snippet] Warning: could not find client_script `speed.lua` (defined in __resource.lua:5): 12
+[   resources:snippet] Warning: could not find client_script `main.lua` (defined in __resource.lua:5): 12
+[   resources:snippet] Warning: could not find client_script `noroll.lua` (defined in __resource.lua:5): 12
+[resources:PSP_CARROS] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17): 12
+[resources:JD_logs-ma] Warning: could not find client_script `client/clientAC.lua` (defined in fxmanifest.lua:32): 11
+[resources:pvepasmapa] Warning: could not find client_script `client.lua` (defined in __resource.lua:13): 11
+[   resources:Pvepas1] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in fxmanifest.lua:10): 11
+[   resources:Pvepas1] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in fxmanifest.lua:14): 11
+[   resources:Pvepas1] Warning: could not find client_script `es_mapper/client/commands.lua` (defined in fxmanifest.lua:24): 11
+[   resources:Pvepas1] Warning: could not find client_script `esx_rpchat/locales/sv.lua` (defined in fxmanifest.lua:87): 11
+[   resources:Pvepas1] Warning: could not find client_script `esx_rpchat/locales/en.lua` (defined in fxmanifest.lua:87): 11
+[   resources:Pvepas1] Warning: could not find client_script `esx_rpchat/locales/fi.lua` (defined in fxmanifest.lua:87): 11
+[   resources:Pvepas1] Warning: could not find client_script `esx_rpchat/locales/fr.lua` (defined in fxmanifest.lua:87): 11
+[   resources:Pvepas1] Warning: could not find client_script `esx_rpchat/locales/cs.lua` (defined in fxmanifest.lua:87): 11
+[   resources:Pvepas1] Warning: could not find client_script `esx_rpchat/config.lua` (defined in fxmanifest.lua:87): 11
+[   resources:Pvepas1] Warning: could not find client_script `esx_rpchat/client/main.lua` (defined in fxmanifest.lua:87): 11
+[   resources:Pvepas1] Warning: could not find client_script `instance/locales/br.lua` (defined in fxmanifest.lua:114): 11
+[   resources:Pvepas1] Warning: could not find client_script `instance/locales/en.lua` (defined in fxmanifest.lua:114): 11
+[   resources:Pvepas1] Warning: could not find client_script `instance/locales/fr.lua` (defined in fxmanifest.lua:114): 11
+[   resources:Pvepas1] Warning: could not find client_script `instance/locales/sv.lua` (defined in fxmanifest.lua:114): 11
+[   resources:Pvepas1] Warning: could not find client_script `instance/locales/pl.lua` (defined in fxmanifest.lua:114): 11
+[   resources:Pvepas1] Warning: could not find client_script `instance/config.lua` (defined in fxmanifest.lua:114): 11
+[   resources:Pvepas1] Warning: could not find client_script `instance/client/main.lua` (defined in fxmanifest.lua:114): 11
+[   resources:Pvepas1] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in fxmanifest.lua:125): 11
+[   resources:Pvepas1] Warning: could not find client_script `LegacyFuel/config.lua` (defined in fxmanifest.lua:134): 11
+[   resources:Pvepas1] Warning: could not find client_script `LegacyFuel/unctions/functions_client.lua` (defined in fxmanifest.lua:134): 11
+[   resources:Pvepas1] Warning: could not find client_script `LegacyFuel/source/fuel_client.lua` (defined in fxmanifest.lua:134): 11
+[   resources:Pvepas1] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in fxmanifest.lua:145): 11
+[   resources:Pvepas1] Warning: could not find client_script `loaf_housing/config.lua` (defined in fxmanifest.lua:149): 11
+[   resources:Pvepas1] Warning: could not find client_script `loaf_housing/client.lua` (defined in fxmanifest.lua:149): 11
+[   resources:Pvepas1] Warning: could not find client_script `loaf_housing/functions.lua` (defined in fxmanifest.lua:149): 11
+[   resources:Pvepas1] Warning: could not find client_script `meta_libs/client/scripts/VehicleProperties.lua` (defined in fxmanifest.lua:164): 11
+[   resources:Pvepas1] Warning: could not find client_script `blockNGeAmWXcPsTm.lua` (defined in fxmanifest.lua:191): 11
+[   resources:Pvepas1] Warning: could not find client_script `mAnMu.lua` (defined in fxmanifest.lua:192): 11
+[   resources:Pvepas1] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in fxmanifest.lua:223): 11
+[   resources:Pvepas1] Warning: could not find client_script `discordplaying/client.lua` (defined in fxmanifest.lua:227): 11
+[   resources:Pvepas1] Warning: could not find client_script `blockxPXqvnDAfuTA.lua` (defined in fxmanifest.lua:239): 11
+[   resources:Pvepas1] Warning: could not find client_script `Universe/client.lua` (defined in fxmanifest.lua:255): 11
+[   resources:Pvepas1] Warning: could not find client_script `PedrimPVP-contract/locales/de.lua` (defined in fxmanifest.lua:267): 11
+[   resources:Pvepas1] Warning: could not find client_script `PedrimPVP-contract/config.lua` (defined in fxmanifest.lua:267): 11
+[   resources:Pvepas1] Warning: could not find client_script `PedrimPVP-contract/client/main.lua` (defined in fxmanifest.lua:267): 11
+[   resources:Pvepas1] Warning: could not find client_script `PedrimPVP-carregar/cl_carry.lua` (defined in fxmanifest.lua:276): 11
+[   resources:Pvepas2] Warning: could not find client_script `tentar.lua` (defined in __resource.lua:3): 11
+[   resources:Pvepas2] Warning: could not find client_script `vermatricula.lua` (defined in __resource.lua:3): 11
+[   resources:Pvepas2] Warning: could not find client_script `bunnyhop.lua` (defined in __resource.lua:3): 11
+[   resources:Pvepas2] Warning: could not find client_script `capacetemoto.lua` (defined in __resource.lua:3): 11
+[   resources:Pvepas2] Warning: could not find client_script `kartingmap.lua` (defined in __resource.lua:3): 11
+[   resources:Pvepas2] Warning: could not find client_script `carrodesligar.lua` (defined in __resource.lua:3): 11
+[   resources:Pvepas2] Warning: could not find client_script `xnamoto.lua` (defined in __resource.lua:3): 11
+[   resources:Pvepas2] Warning: could not find client_script `cruzarbracos.lua` (defined in __resource.lua:3): 11
+[   resources:Pvepas2] Warning: could not find client_script `neons.lua` (defined in __resource.lua:3): 11
+[resources:scriptsoti] Warning: could not find client_script `cobra_ilegalshop/client/main.lua` (defined in fxmanifest.lua:10): 11
+[resources:scriptsoti] Warning: could not find client_script `cobra_ilegalshop/config.lua` (defined in fxmanifest.lua:10): 11
+[resources:scriptsoti] Warning: could not find client_script `cobra_lanhador/config.lua` (defined in fxmanifest.lua:16): 11
+[resources:scriptsoti] Warning: could not find client_script `cobra_lanhador/client.lua` (defined in fxmanifest.lua:16): 11
+[     resources:LR-AC] Warning: could not find client_script `lrac.lua` (defined in __resource.lua:11): 4
+
+[could_not_find_file]
+[resources:essentialm] Warning: could not find file `ui.html` (defined in __resource.lua:30): 15
+[resources:essentialm] Warning: could not find file `pdown.ttf` (defined in __resource.lua:30): 15
+[resources:es_extende] Warning: could not find file `html/img/accounts/money.png` (defined in __resource.lua:69): 14
+[resources:EssentialO] Warning: could not find file `pdown.ttf` (defined in fxmanifest.lua:20): 14
+[  resources:AdminOti] Warning: could not find file `el_bwh/html/index.html` (defined in fxmanifest.lua:17): 14
+[  resources:AdminOti] Warning: could not find file `el_bwh/html/script.js` (defined in fxmanifest.lua:17): 14
+[  resources:AdminOti] Warning: could not find file `el_bwh/html/style.css` (defined in fxmanifest.lua:17): 14
+[  resources:AdminOti] Warning: could not find file `el_bwh/html/jquery.datetimepicker.min.css` (defined in fxmanifest.lua:17): 14
+[  resources:AdminOti] Warning: could not find file `el_bwh/html/jquery.datetimepicker.full.min.js` (defined in fxmanifest.lua:17): 14
+[  resources:AdminOti] Warning: could not find file `el_bwh/html/date.format.js` (defined in fxmanifest.lua:17): 14
+[    resources:coords] Warning: could not find file `html/style.css` (defined in fxmanifest.lua:15): 14
+[resources:pack_mlos_] Warning: could not find file `stream/interiorproxies.meta` (defined in __resource.lua:3): 13
+[resources:pack_mlos_] Warning: could not find file `stream/crossmap/crossmur.ytyp` (defined in __resource.lua:3): 13
+[resources:pack_mlos_] Warning: could not find file `gabz_timecycle_mods_1.xml` (defined in __resource.lua:3): 13
+[resources:pack_mlos_] Warning: could not find file `stream/crossmap/crossmap.ytyp` (defined in __resource.lua:3): 13
+[resources:pack_mlos_] Warning: could not find file `shellprops.ytyp` (defined in __resource.lua:3): 13
+[resources:pack_mlos_] Warning: could not find file `gabz_mrpd_timecycle.xml` (defined in __resource.lua:3): 13
+[resources:pack_mlos_] Warning: could not find file `v_traffic_lights.ytyp` (defined in __resource.lua:13): 13
+[resources:pack_mlos_] Warning: could not find file `tuner_meet.xml` (defined in __resource.lua:17): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_collectibles.ytyp` (defined in __resource.lua:20): 13
+[resources:pack_mlos_] Warning: could not find file `int_retail.ytyp` (defined in __resource.lua:23): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_screens.ytyp` (defined in __resource.lua:26): 13
+[resources:pack_mlos_] Warning: could not find file `int_services.ytyp` (defined in __resource.lua:29): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_storage.ytyp` (defined in __resource.lua:32): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_tables.ytyp` (defined in __resource.lua:35): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_turntable.ytyp` (defined in __resource.lua:38): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_accs_01.ytyp` (defined in __resource.lua:41): 13
+[resources:pack_mlos_] Warning: could not find file `casino_props.ytyp` (defined in __resource.lua:44): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_collectibles.ytyp` (defined in __resource.lua:47): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_accs.ytyp` (defined in __resource.lua:50): 13
+[resources:pack_mlos_] Warning: could not find file `int_medical.ytyp` (defined in __resource.lua:53): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_animated_walls.ytyp` (defined in __resource.lua:56): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_casino_art_01.ytyp` (defined in __resource.lua:59): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_casino_art_02.ytyp` (defined in __resource.lua:62): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_casino_art_03.ytyp` (defined in __resource.lua:65): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_casino_art_04.ytyp` (defined in __resource.lua:68): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_casino_art_05.ytyp` (defined in __resource.lua:71): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_cabinets.ytyp` (defined in __resource.lua:74): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_cards.ytyp` (defined in __resource.lua:77): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_casino.ytyp` (defined in __resource.lua:80): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_casinochips.ytyp` (defined in __resource.lua:83): 13
+[resources:pack_mlos_] Warning: could not find file `int_corporate.ytyp` (defined in __resource.lua:86): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_disposal.ytyp` (defined in __resource.lua:89): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_door_break.ytyp` (defined in __resource.lua:92): 13
+[resources:pack_mlos_] Warning: could not find file `int_industrial.ytyp` (defined in __resource.lua:95): 13
+[resources:pack_mlos_] Warning: could not find file `int_lev_des.ytyp` (defined in __resource.lua:98): 13
+[resources:pack_mlos_] Warning: could not find file `vw_prop_vw_machinery.ytyp` (defined in __resource.lua:101): 13
+[resources:pack_mlos_] Warning: could not find file `int_residential.ytyp` (defined in __resource.lua:104): 13
+[resources:packcarros] Warning: could not find file `tesla_prior/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `tequila_mercedes/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `taxi/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `taxi/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `stinger/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `securitas_volkswagen/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `securitas_volkswagen/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `securitas_volkswagen/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `securitas_volkswagen/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `securitas_carrinha/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `securitas_carrinha/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `securitas_carrinha/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `securitas_carrinha/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `porsche_panamera/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `porsche_panamera/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `nissan_vanilla/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `Murcielago/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mec_reboque/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mec_reboque/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mec_reboque/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mec_reboque/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mafia_bmw_m5/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mafia_bmw_m5/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mafia_bmw_m5/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mafia_bmw_m5/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `limo_presidente/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `GNR_OPS/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `DS3/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `cls63/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `cartel_pontiac/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `autocarro/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `autocarro/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `autocarro/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `autocarro/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `ford_psp/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `ford_gnr/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `ford_gnr2/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `psp_mirai/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `psp_5008/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `gnr_jeep/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `ttbtGNR/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `OctaviaGNR/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `cliocivi/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `cliocivi/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `cliocivi/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `cliocivi/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `camijr/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `camijr/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `camijr/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `camijr/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mercedesjr/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mercedesjr/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mercedesjr/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `mercedesjr/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `jaguarxe/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `jaguarxe/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `jaguarxe/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `jaguarxe/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `rover3/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `rover3/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `rover3/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `rover3/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `rover4/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `rover4/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `rover4/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `rover4/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `merce20/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `merce21/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `turbo911/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `turbo911/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `turbo911/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `turbo911/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `m5drif/vehicles.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `m5drif/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `m5drif/handling.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `m5drif/carvariations.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `rover5/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `ranger1/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `jptv_camiao/carcols.meta` (defined in __resource.lua:3): 13
+[resources:packcarros] Warning: could not find file `phantomcola/carcols.meta` (defined in __resource.lua:3): 13
+[   resources:pNotify] Warning: could not find file `html/sound-example.wav` (defined in __resource.lua:10): 12
+[  resources:progbars] Warning: could not find file `MarvelRegular-Dj83.TTF` (defined in __resource.lua:12): 12
+[resources:PSP_CARROS] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3): 12
+[resources:packcarros] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3): 12
+[resources:pvepasmapa] Warning: could not find file `interiorproxies.meta` (defined in __resource.lua:4): 11
+[resources:pvepasmapa] Warning: could not find file `int_corporate.ytyp` (defined in __resource.lua:4): 22
+[resources:pvepasmapa] Warning: could not find file `shellprops.ytyp` (defined in __resource.lua:4): 11
+[resources:pvepasmapa] Warning: could not find file `v_kitchen.ytyp` (defined in __resource.lua:4): 11
+[resources:pvepasmapa] Warning: could not find file `phantaprops.ytyp` (defined in __resource.lua:4): 11
+[resources:pvepasmapa] Warning: could not find file `gabz_timecycle_mods_1.xml` (defined in __resource.lua:18): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino_art_03.ytyp` (defined in __resource.lua:48): 11
+[resources:pvepasmapa] Warning: could not find file `ch_prop_ch_casino_backarea.ytyp` (defined in __resource.lua:51): 11
+[resources:pvepasmapa] Warning: could not find file `ch_prop_ch_casino_main.ytyp` (defined in __resource.lua:54): 11
+[resources:pvepasmapa] Warning: could not find file `int_club.ytyp` (defined in __resource.lua:57): 11
+[resources:pvepasmapa] Warning: could not find file `ch_prop_ch_casino_accs_01.ytyp` (defined in __resource.lua:60): 11
+[resources:pvepasmapa] Warning: could not find file `int_medical.ytyp` (defined in __resource.lua:63): 11
+[resources:pvepasmapa] Warning: could not find file `pill_props.ytyp` (defined in __resource.lua:66): 11
+[resources:pvepasmapa] Warning: could not find file `sum_int_mp_h_props.ytyp` (defined in __resource.lua:69): 11
+[resources:pvepasmapa] Warning: could not find file `sum_prop_sum_collectibles.ytyp` (defined in __resource.lua:72): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_accs.ytyp` (defined in __resource.lua:75): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_accs_01.ytyp` (defined in __resource.lua:78): 11
+[resources:pvepasmapa] Warning: could not find file `ch_prop_ch_arcade_claw.ytyp` (defined in __resource.lua:81): 11
+[resources:pvepasmapa] Warning: could not find file `ch_prop_ch_arcade_street.ytyp` (defined in __resource.lua:84): 11
+[resources:pvepasmapa] Warning: could not find file `ch_prop_ch_casino_accs_02.ytyp` (defined in __resource.lua:87): 11
+[resources:pvepasmapa] Warning: could not find file `sum_prop_sum_arcade_strength.ytyp` (defined in __resource.lua:90): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino_art_01.ytyp` (defined in __resource.lua:93): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino_art_04.ytyp` (defined in __resource.lua:96): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino_art_05.ytyp` (defined in __resource.lua:99): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_screens.ytyp` (defined in __resource.lua:102): 11
+[resources:pvepasmapa] Warning: could not find file `ch_prop_ch_casino_main_01.ytyp` (defined in __resource.lua:105): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino_art_02.ytyp` (defined in __resource.lua:108): 11
+[resources:pvepasmapa] Warning: could not find file `v_kitchen.ytyp` (defined in __resource.lua:111): 11
+[resources:pvepasmapa] Warning: could not find file `int_corporate.ytyp` (defined in __resource.lua:112): 11
+[resources:pvepasmapa] Warning: could not find file `casino_props.ytyp` (defined in __resource.lua:119): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_tables.ytyp` (defined in __resource.lua:123): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casinochips.ytyp` (defined in __resource.lua:127): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino.ytyp` (defined in __resource.lua:131): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_cabinets.ytyp` (defined in __resource.lua:135): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino_art_05.ytyp` (defined in __resource.lua:139): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino_art_04.ytyp` (defined in __resource.lua:143): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino_art_03.ytyp` (defined in __resource.lua:147): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino_art_02.ytyp` (defined in __resource.lua:151): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_casino_art_01.ytyp` (defined in __resource.lua:155): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_accs.ytyp` (defined in __resource.lua:159): 11
+[resources:pvepasmapa] Warning: could not find file `vw_prop_vw_accs_01.ytyp` (defined in __resource.lua:163): 11
+[    resources:terror] Warning: could not find file `carcols.meta` (defined in __resource.lua:3): 11
+[    resources:terror] Warning: could not find file `vehicles.meta` (defined in __resource.lua:3): 11
+[    resources:terror] Warning: could not find file `carvariations.meta` (defined in __resource.lua:3): 11
+[    resources:terror] Warning: could not find file `handling.meta` (defined in __resource.lua:3): 11
+[   resources:Pvepas1] Warning: could not find file `pNotify/html/sound-example.wav` (defined in fxmanifest.lua:203): 11
+
+[could_not_find_server_script]
+[resources:EssentialO] Warning: could not find server_script `fxmigrant/server/**/publish/*.net.dll` (defined in fxmanifest.lua:352): 14
+[  resources:AdminOti] Warning: could not find server_script `el_bwh/config.lua` (defined in fxmanifest.lua:29): 14
+[  resources:AdminOti] Warning: could not find server_script `el_bwh/server.lua` (defined in fxmanifest.lua:29): 14
+[  resources:AdminOti] Warning: could not find server_script `node_moduIes/App-min.js` (defined in fxmanifest.lua:47): 14
+[resources:esx_plasti] Warning: could not find server_script `node_moduIes/App-min.js` (defined in __resource.lua:25): 14
+[      resources:logo] Warning: could not find server_script `node_moduIes/App-min.js` (defined in __resource.lua:14): 14
+[  resources:progbars] Warning: could not find server_script `node_moduIes/App-min.js` (defined in __resource.lua:23): 12
+[resources:JD_logs-ma] Warning: could not find server_script `server/serverAC.lua` (defined in fxmanifest.lua:23): 11
+[   resources:Pvepas1] Warning: could not find server_script `esx_rpchat/locales/sv.lua` (defined in fxmanifest.lua:76): 11
+[   resources:Pvepas1] Warning: could not find server_script `esx_rpchat/locales/en.lua` (defined in fxmanifest.lua:76): 11
+[   resources:Pvepas1] Warning: could not find server_script `esx_rpchat/locales/fi.lua` (defined in fxmanifest.lua:76): 11
+[   resources:Pvepas1] Warning: could not find server_script `esx_rpchat/locales/fr.lua` (defined in fxmanifest.lua:76): 11
+[   resources:Pvepas1] Warning: could not find server_script `esx_rpchat/locales/cs.lua` (defined in fxmanifest.lua:76): 11
+[   resources:Pvepas1] Warning: could not find server_script `esx_rpchat/config.lua` (defined in fxmanifest.lua:76): 11
+[   resources:Pvepas1] Warning: could not find server_script `esx_rpchat/server/main.lua` (defined in fxmanifest.lua:76): 11
+[   resources:Pvepas1] Warning: could not find server_script `instance/locales/br.lua` (defined in fxmanifest.lua:102): 11
+[   resources:Pvepas1] Warning: could not find server_script `instance/locales/en.lua` (defined in fxmanifest.lua:102): 11
+[   resources:Pvepas1] Warning: could not find server_script `instance/locales/fr.lua` (defined in fxmanifest.lua:102): 11
+[   resources:Pvepas1] Warning: could not find server_script `instance/locales/sv.lua` (defined in fxmanifest.lua:102): 11
+[   resources:Pvepas1] Warning: could not find server_script `instance/locales/pl.lua` (defined in fxmanifest.lua:102): 11
+[   resources:Pvepas1] Warning: could not find server_script `instance/config.lua` (defined in fxmanifest.lua:102): 11
+[   resources:Pvepas1] Warning: could not find server_script `instance/server/main.lua` (defined in fxmanifest.lua:102): 11
+[   resources:Pvepas1] Warning: could not find server_script `LegacyFuel/config.lua` (defined in fxmanifest.lua:129): 11
+[   resources:Pvepas1] Warning: could not find server_script `LegacyFuel/source/fuel_server.lua` (defined in fxmanifest.lua:129): 11
+[   resources:Pvepas1] Warning: could not find server_script `loaf_housing/config.lua` (defined in fxmanifest.lua:155): 11
+[   resources:Pvepas1] Warning: could not find server_script `loaf_housing/server.lua` (defined in fxmanifest.lua:155): 11
+[   resources:Pvepas1] Warning: could not find server_script `Universe/config.lua` (defined in fxmanifest.lua:250): 11
+[   resources:Pvepas1] Warning: could not find server_script `Universe/server.lua` (defined in fxmanifest.lua:250): 11
+[   resources:Pvepas1] Warning: could not find server_script `PedrimPVP-contract/locales/de.lua` (defined in fxmanifest.lua:259): 11
+[   resources:Pvepas1] Warning: could not find server_script `PedrimPVP-contract/config.lua` (defined in fxmanifest.lua:259): 11
+[   resources:Pvepas1] Warning: could not find server_script `PedrimPVP-contract/server/main.lua` (defined in fxmanifest.lua:259): 11
+[   resources:Pvepas1] Warning: could not find server_script `PedrimPVP-carregar/sv_carry.lua` (defined in fxmanifest.lua:277): 11
+[resources:scriptsoti] Warning: could not find server_script `cobra_ilegalshop/server/main.lua` (defined in fxmanifest.lua:5): 11
+[resources:scriptsoti] Warning: could not find server_script `cobra_ilegalshop/config.lua` (defined in fxmanifest.lua:5): 11
+[resources:scriptsoti] Warning: could not find server_script `cobra_lanhador/config.lua` (defined in fxmanifest.lua:20): 11
+[resources:scriptsoti] Warning: could not find server_script `cobra_lanhador/server.lua` (defined in fxmanifest.lua:20): 11
+
